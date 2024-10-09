@@ -1,0 +1,322 @@
+[
+    {
+        "name": "Hardwood",
+        "tags": [
+            "Red",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Snowfall",
+        "tags": [
+            "Black",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Autumn",
+        "tags": [
+            "Pink",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Midnight",
+        "tags": [
+            "Black",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Ocean",
+        "tags": [
+            "Pink",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Sunset",
+        "tags": [
+            "Red",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Mystic",
+        "tags": [
+            "Pink",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Blossom",
+        "tags": [
+            "Pink",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Storm",
+        "tags": [
+            "Green",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Crimson",
+        "tags": [
+            "Yellow",
+            "Shirt"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Emerald",
+        "tags": [
+            "Brown",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Sapphire",
+        "tags": [
+            "Red",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Tangerine",
+        "tags": [
+            "Blue",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Lavender",
+        "tags": [
+            "Green",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Cobalt",
+        "tags": [
+            "Pink",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Cherry",
+        "tags": [
+            "Yellow",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Slate",
+        "tags": [
+            "Black",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Ivory",
+        "tags": [
+            "Yellow",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Dusk",
+        "tags": [
+            "Orange",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Wisteria",
+        "tags": [
+            "White",
+            "Pants"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Celestial",
+        "tags": [
+            "Green",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Whisper",
+        "tags": [
+            "Brown",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Eclipse",
+        "tags": [
+            "Purple",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Radiance",
+        "tags": [
+            "Brown",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Serenade",
+        "tags": [
+            "Green",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Zephyr",
+        "tags": [
+            "Brown",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Pinnacle",
+        "tags": [
+            "Orange",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Horizon",
+        "tags": [
+            "Blue",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Frost",
+        "tags": [
+            "Purple",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Sundance",
+        "tags": [
+            "Yellow",
+            "Shoes"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Gale",
+        "tags": [
+            "Orange",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Nova",
+        "tags": [
+            "Green",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Echo",
+        "tags": [
+            "Green",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Ember",
+        "tags": [
+            "Blue",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Tranquil",
+        "tags": [
+            "Purple",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Raven",
+        "tags": [
+            "Blue",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Petal",
+        "tags": [
+            "Purple",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Slate",
+        "tags": [
+            "Blue",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Breeze",
+        "tags": [
+            "Black",
+            "Socks"
+        ],
+        "img": ""
+    },
+    {
+        "name": "Cinder",
+        "tags": [
+            "Orange",
+            "Socks"
+        ],
+        "img": ""
+    }
+]
